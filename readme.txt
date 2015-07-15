@@ -10,3 +10,11 @@ Creating a branch dev
 Creating a branch ming
 dev branch is working,but now there is a bug on branch master ,so I need to check my branch to master
 with no commit to local repository
+
+haha,my boss told me I need to accomplish a new feature on autonavi map between 5 minutes
+now 1 minute
+2 minute
+3 
+4
+5 
+finished
